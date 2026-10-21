@@ -1,0 +1,6 @@
+{
+  "name": "Đấu Trường Lịch Sử - Chinh Phục Giữa Học Kỳ I",
+  "description": "Web app trò chơi ôn tập kiểm tra giữa học kỳ I môn Lịch sử (2026-2027) bám sát đề cương chuẩn, 7 minigames, flashcards, thi thử và sổ tay câu sai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
